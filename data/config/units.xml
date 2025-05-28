@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<units>
+    <unit type="boy">
+        <name>Warrior</name>
+        <health>120</health>
+        <attack>15</attack>
+        <defense>10</defense>
+        <movement>3</movement>
+        <range>1</range>
+        <texture>textures/units/warrior.png</texture>
+    </unit>
+    <unit type="archer">
+        <name>Archer</name>
+        <health>80</health>
+        <attack>20</attack>
+        <defense>5</defense>
+        <movement>2</movement>
+        <range>3</range>
+        <texture>textures/units/archer.png</texture>
+    </unit>
+    <unit type="mage">
+        <name>Mage</name>
+        <health>60</health>
+        <attack>25</attack>
+        <defense>3</defense>
+        <movement>2</movement>
+        <range>2</range>
+        <texture>textures/units/mage.png</texture>
+    </unit>
+</units>
